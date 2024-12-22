@@ -34,16 +34,16 @@ cd codeantai
 npm install
 
 3. Start the development server:
-npm start
+npm run dev
 
 4. View the project: Open http://localhost:3000 in your browser.
 
 # Technologies Utilized: #
 
-ReactJS : To build the user interface and manage state.
-CSS : For styling and making the design responsive.
-HTML : For creating the basic structure of the application.
-Webpack : For bundling and managing dependencies.
+[ReactJS] : To build the user interface and manage state.
+[CSS] : For styling and making the design responsive.
+[HTML] : For creating the basic structure of the application.
+[Webpack] : For bundling and managing dependencies.
 
 # Key Features: #
 Responsive Design: Optimized for various screen sizes and devices.
@@ -56,11 +56,10 @@ Modular Code: Scalable, clean, and maintainable code structure.
 # Directory Structure: #
 
 src/
-
-├── Components/     
-├── Pages/           
-├── assets/         
-├── styles/         
-├── App.jsx         
-├── index.js       
-└── ...             
+├── Components/     # Reusable React components
+├── Pages/          # Static React pages  
+├── assets/         # Static assets like images and fonts  
+├── styles/         # Global and modular CSS files  
+├── App.jsx         # Main application file  
+├── index.jsx       # Entry point for the React app  
+└── ...             # Additional necessary files  
