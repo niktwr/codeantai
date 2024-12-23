@@ -31,10 +31,10 @@ git clone https://github.com/niktwr/codeantai
 2. cd codeantai
 
 3. Install dependencies:
-npm install
+   npm install
 
-4. Start the development server:
-npm run dev
+4. Start the server:
+   npm start
 
 5. View the project: Open http://localhost:3000 in your browser.
 
