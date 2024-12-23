@@ -28,15 +28,15 @@ To run the project locally, follow these steps:
 1. Clone the repository using 
 git clone https://github.com/niktwr/codeantai
 
-cd codeantai
+2. cd codeantai
 
-2. Install dependencies:
+3. Install dependencies:
 npm install
 
-3. Start the development server:
+4. Start the development server:
 npm run dev
 
-4. View the project: Open http://localhost:3000 in your browser.
+5. View the project: Open http://localhost:3000 in your browser.
 
 # Technologies Utilized: #
 
